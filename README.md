@@ -39,7 +39,6 @@ Next.js + Tailwind + shadcn/ui で構築した
 
 ## 🗂 ディレクトリ構成
 
-```bash
 fitness-lp/
 ├── app/
 │   ├── page.tsx             # LPメインページ
